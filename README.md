@@ -1,15 +1,15 @@
 # Machine Learning Projects
 Course work for Introduction to ML @UofT
-## Sub1
+## HW1
 * Classification with Nearest Neighbours
 * Regularized Linear Regression
 * Loss Functions
 * Cross Validation
-## Sub2
+## HW2
 * Feature Maps
 * kNN vs. Logistic Regression
 * Neural Networks
-## Sub3
+## HW3
 * AdaBoost
 * Fitting a Naive Bayes Model
 * Generating from a Naive Bayes Model
